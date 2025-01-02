@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Rémi Salandre"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Solutions Enginner at HashiCorp, I will share some blog posts on my work and personnal tutorials"
+  bio    : "Solutions Engineer at HashiCorp, I will share some blog posts on my work and personnal tutorials"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

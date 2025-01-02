@@ -13,10 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sokren
+title: RemiS
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog.
+  Welcome to my blog, where I share my passion for technology, creativity, and everyday life! 
+  Dive into a mix of professional tutorials based on my work experience and personal explorations, 
+  such as smart home automation and practical life hacks. Whether you're here to learn, find inspiration, 
+  or satisfy your curiosity, you'll discover easy-to-follow guides, innovative ideas, 
+  and a glimpse into the projects that drive me. Let’s explore, create, and simplify together.
 github_username: Sokren
 minimal_mistakes_skin: default
 search: true

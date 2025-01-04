@@ -20,7 +20,8 @@ Home Assistant est une plateforme puissante pour automatiser votre maison connec
 
 Voici le code YAML complet de l'automatisation. Copiez-le dans votre interface Home Assistant (section Automatisations).
 
-```liquid
+{% raw %}
+```yaml
 alias: Notification - Alerte Météo
 description: Envoie une notification des alertes actives et informe de la fin des événements météo
 triggers:
@@ -77,6 +78,7 @@ actions:
         action: notify.notify
 mode: single
 ```
+{% endraw %}
 
 ## Explications
 
